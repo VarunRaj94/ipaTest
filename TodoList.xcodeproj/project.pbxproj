@@ -101,7 +101,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = Varun;
+				ORGANIZATIONNAME = Cogzidel;
 				TargetAttributes = {
 					18573FFD20C9102E00B3F27C = {
 						CreatedOnToolsVersion = 9.2;
